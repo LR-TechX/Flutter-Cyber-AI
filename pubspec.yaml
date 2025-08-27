@@ -1,0 +1,34 @@
+name: cyber_ai_app
+description: CyberAI — Flutter cybersecurity chatbot with offline memory, tools, notifications, and optional proxy.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter: { sdk: flutter }
+  flutter_riverpod: ^2.5.1
+  dio: ^5.4.3+1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_local_notifications: ^17.2.1
+  lottie: ^3.1.2
+  google_fonts: ^6.2.1
+  animations: ^2.0.11
+  permission_handler: ^11.3.1
+  network_info_plus: ^5.0.3
+  android_alarm_manager_plus: ^3.0.4
+  path: ^1.9.0
+  collection: ^1.18.0
+
+dev_dependencies:
+  flutter_test: { sdk: flutter }
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/anim/launch.json
+    - assets/data/knowledge_base.json
+    - assets/data/tips.json
