@@ -1,0 +1,22 @@
+[
+  "Use unique passwords for every account.",
+  "Enable two-factor authentication everywhere it is offered.",
+  "Update your operating system and apps regularly.",
+  "Beware of urgent emails asking for credentials.",
+  "Lock your devices with PIN or biometrics.",
+  "Review app permissions and remove what you don't need.",
+  "Backup important files with the 3-2-1 rule.",
+  "Avoid public Wi‑Fi for sensitive tasks; use a VPN.",
+  "Verify links by hovering or long-pressing before clicking.",
+  "Keep your browser and extensions up to date.",
+  "Use a privacy screen in public spaces.",
+  "Disable macros in documents from unknown sources.",
+  "Use passkeys where available for phishing-resistant login.",
+  "Turn off Bluetooth when not in use.",
+  "Don’t reuse security answers; treat them like passwords.",
+  "Secure your home router: change default admin password.",
+  "Use encrypted DNS (DoH/DoT) when possible.",
+  "Audit your online accounts and remove unused ones.",
+  "Beware of QR code scams; verify the URL after scanning.",
+  "Use separate email addresses for different risk levels."
+]
